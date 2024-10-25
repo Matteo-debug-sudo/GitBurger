@@ -10,7 +10,7 @@ Construisez votre propre hamburger en utilisant des fichiers texte pour chaque c
 
 - 5 🍅 Tomate : Tranches de tomate bien mûre.
 
-- 4 🥩 Steak : Steak de bœuf grillé à la perfection.
+- 7 🥩 Steak : Steak de bœuf grillé à la perfection.
 
 - 3 🧀 Fromage : Tranche de cheddar fondant.
 
